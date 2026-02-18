@@ -25,3 +25,6 @@ service_client_id=<can be null if not using>
 provider_client_id=<can be null if not using>
 patient_client_id=<can be null if not using>
 DATABASE_URL=postgresql://<username, usually postgres>:<password>@localhost:5432/smart-on-fhir-app
+
+Created by Farseen Advisors LLC
+https://farseenadvisors.com
